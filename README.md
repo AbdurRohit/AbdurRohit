@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheikh Abdur Rohit</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrohit&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrohit" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10jCyMSkbAWWvqBHfOSenfnVFX_wkLc-E/view?usp=sharing](https://drive.google.com/file/d/10jCyMSkbAWWvqBHfOSenfnVFX_wkLc-E/view?usp=sharing)
 
-- ⚡ Fun fact **I am gold at valorant**
+- ⚡ Fun fact **I reached gold at valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
