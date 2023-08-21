@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10jCyMSkbAWWvqBHfOSenfnVFX_wkLc-E/view?usp=sharing](https://drive.google.com/file/d/10jCyMSkbAWWvqBHfOSenfnVFX_wkLc-E/view?usp=sharing)
 
-- ⚡ Fun fact **I reached gold at valorant**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/18xdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="18xdeveloper" height="30" width="40" /></a>
