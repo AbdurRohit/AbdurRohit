@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on [Online-shopping-Website(Using JSP)](https://github.com/AbdurRohit/Online-Shopping-Website-dressup-)
-
 - 👨‍💻 All of my projects are available at [https://github.com/AbdurRohit/](https://github.com/AbdurRohit/)
 
 - 💬 Ask me about **JavaScript**
