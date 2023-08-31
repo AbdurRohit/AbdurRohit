@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Abdur Rohit</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on [Chat-System](https://github.com/AbdurRohit/Team-Chat)
+- 🔭 I’m currently working on [Shop App](https://github.com/AbdurRohit/ShopApp)
 
 - 🌱 I’m currently learning **React JS**
 
