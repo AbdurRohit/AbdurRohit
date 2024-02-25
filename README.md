@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Abdur Rohit</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 🔭 I’m currently working on [Meshery](https://github.com/AbdurRohit/meshery)
+- 🔭 I’m currently working on [PresentBuddy](https://github.com/AbdurRohit/present-buddy-api)
 
 - 🌱 I’m currently learning **AWS**
 
