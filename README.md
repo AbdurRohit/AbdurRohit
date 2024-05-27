@@ -32,7 +32,7 @@
 
 ### 🔭 Currently working on [Present Z](https://github.com/AbdurRohit/present-buddy-api)
 
-### 🌱 Currently learning **Mechine Learning**
+### 🌱 Currently learning **Computer Vison**
 
 ### 💬 Ask me about **JavaScript, OS, Linux**
 
