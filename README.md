@@ -30,15 +30,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-### 🔭 Currently working on [Present Z](https://github.com/AbdurRohit/present-buddy-api)
+### 🔭 Currently working on [Disaster-heroes](https://github.com/AbdurRohit/disaster-heroes)
 
-### 🌱 Currently learning **Computer Vison**
+### 🌱 Currently learning **Dynamic programming & Android**
 
-### 💬 Ask me about **JavaScript, OS, Linux**
+### 💬 Ask me about **Java, TS, OS, Linux**
 
 ### 📫 How to reach me [Email](sheikhofficial2023@gmail.com)
 
-### 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1sB0Yc8YC75x8HvZNXCTq7I_5DFjdAuWi/edit?usp=sharing&ouid=111076572719051537298&rtpof=true&sd=true)
+### 📄 Resume - [Resume](https://docs.google.com/document/d/1sB0Yc8YC75x8HvZNXCTq7I_5DFjdAuWi/edit?usp=sharing&ouid=111076572719051537298&rtpof=true&sd=true)
 
 
 <h2 align="left">Connect with me:</h2>
